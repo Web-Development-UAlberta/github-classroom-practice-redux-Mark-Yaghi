@@ -1,3 +1,6 @@
 Hi, this is a test file for playing with git. 
 
 This line of text represents a release of our code at version 1.0.0.
+
+Created new branch called 'new-feature'. This text, add and commit are to demonstrate
+how to do an add, commit and push with branches.
